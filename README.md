@@ -8,10 +8,6 @@ so that humans can actually spend their time doing things machines cannot.
 <a href="https://console.megamafrica.com" target="_blank">
 <img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="wordpres button" />
 
-new messages
-
------ Today May 27th, 2016 -----
-
 
 # What to Use Jenkins for and When to Use It
 
