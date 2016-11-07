@@ -1,11 +1,11 @@
-[![][ButlerImage]][website] 
+[![][ButlerImage]][website]
 
 # About
-In a nutshell, Jenkins is the leading open-source automation server. 
-Built with Java, it provides over 1000 plugins to support automating virtually anything, 
+In a nutshell, Jenkins is the leading open-source automation server.
+Built with Java, it provides over 1000 plugins to support automating virtually anything,
 so that humans can actually spend their time doing things machines cannot.
 
-<a href="https://console.megamafrica.com" target="_blank">
+<a href="http://docs.megam.io/overview/tour/" target="_blank">
 <img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="wordpres button" />
 
 
@@ -37,7 +37,7 @@ Jenkins is **licensed** under the **[MIT License]**. The terms of the license ar
 
     The MIT License (MIT)
 
-    Copyright (c) 2004 Kohsuke Kawaguchi, Sun Microsystems Inc., and a number of other contributors. 
+    Copyright (c) 2004 Kohsuke Kawaguchi, Sun Microsystems Inc., and a number of other contributors.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
